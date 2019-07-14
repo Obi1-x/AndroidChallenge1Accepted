@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">ALC CHALLENGE</string>
+    <string name="title_activity_my_profile">MyProfileActivity</string>
+    <string name="welcome">Welcome to ALC 4.0!</string>
+    <string name="about_alc">ABOUT ALC</string>
+    <string name="my_profile">MY PROFILE</string>
+    <string name="title_activity__">Activity__A</string>
+    <string name="my_name">Okezie Obiefuna</string>
+    <string name="title_activity__b">Activity_B</string>
+    <string name="slack_name">Slack Name:</string>
+    <string name="_08131127708">08131127708</string>
+    <string name="phone_number">Phone Number:</string>
+    <string name="email_chekwube">chekwube102@gmail.com</string>
+    <string name="email_email">Email:</string>
+    <string name="nigeria">Nigeria.</string>
+    <string name="country">Country:</string>
+    <string name="android_track">Android.</string>
+    <string name="track">Track:</string>
+    <string name="about_page_url">https://andela.com/alc/</string>
+</resources>
